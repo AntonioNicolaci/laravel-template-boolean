@@ -7,6 +7,5 @@
         @vite('resources/scss/app.scss')
     </head>
     <body>
-        <!-- <img src="{{ vite::asset('resources/img/') }}" alt=""> -->
     </body>
 </html>
